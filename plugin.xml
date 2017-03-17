@@ -25,6 +25,9 @@
   </js-module>
 
   <platform name="ios">
+    <js-module name="SafariViewController" src="www/SafariViewController.js">
+      <clobbers target="SafariViewController"/>
+    </js-module>
     <config-file parent="/*" target="config.xml">
       <feature name="SafariViewController">
         <param name="ios-package" value="SafariViewController"/>
