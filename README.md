@@ -1,3 +1,8 @@
+unless you know what you're doing, don't use this fork
+
+-----------------------------
+
+
 SafariViewController Cordova Plugin
 ===================================
 by Eddy Verbruggen - [@eddyverbruggen](https://twitter.com/eddyverbruggen)
